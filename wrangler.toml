@@ -1,0 +1,7 @@
+name = "concreplus-checklists-api"
+main = "index.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://TU-USUARIO.github.io"
+OPENAI_MODEL = "gpt-4.1"
